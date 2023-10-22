@@ -31,6 +31,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LockserOficial&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <img src = "(https://github-readme-stats.vercel.app/api?username=LockserOficial&theme=dark&show_icons=true&hide_border=true&count_private=false)">
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
@@ -51,4 +52,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
 
 </div>  
+
 
