@@ -20,7 +20,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **My Github Stats:**
 
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LockserOficial&theme=dark&show_icons=true&hide_border=true&count_private=false" style="display: inline-block; width: 45%; height: 200px;">
