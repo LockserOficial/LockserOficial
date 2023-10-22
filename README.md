@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Lockser! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center">I'm a student developer.<br/>I specialize in Lua, FiveM Development.<br> I also love writing Code, Graphic Design etc.<br></p><br/>
+<p align="center">I'm a student developer.<br/>I specialize in Lua, FiveM Development.<br> I also love writing Code, Graphic Design etc.<br></p>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
