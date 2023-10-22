@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LockserOficial&theme=dark&show_icons=true&hide_border=true&count_private=false" style="display: inline-block; width: 48%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LockserOficial&theme=dark&show_icons=true&hide_border=true&count_private=false" style="display: inline-block; width: 45%; height: 200px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LockserOficial&theme=dark&hide_border=true" style="display: inline-block; width: 48%; height: 200px;">
 </p>
 
